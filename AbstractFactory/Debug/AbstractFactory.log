@@ -1,0 +1,5 @@
+﻿  AbstractFactory.cpp
+C:\Users\Mahsa\source\repos\AbstractFactory\AbstractFactory\AbstractFactory.cpp(112): warning C4715: 'DeviceAbstractFactory::getPercentage': not all control paths return a value
+C:\Users\Mahsa\source\repos\AbstractFactory\AbstractFactory\AbstractFactory.cpp(125): warning C4715: 'DeviceAbstractFactory::getGift': not all control paths return a value
+C:\Users\Mahsa\source\repos\AbstractFactory\AbstractFactory\AbstractFactory.cpp(99): warning C4715: 'DeviceAbstractFactory::getDiscount': not all control paths return a value
+  AbstractFactory.vcxproj -> C:\Users\Mahsa\source\repos\AbstractFactory\Debug\AbstractFactory.exe
